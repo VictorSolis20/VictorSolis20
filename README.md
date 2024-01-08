@@ -1,7 +1,7 @@
 ###  **Hi there** 👋,  **I´m Victor Antonio**
 💻 **Technology Lover** | 👨‍💻 **Computer systems engineering student** | :octocat: **Web Developer** | 🚀 **Self-taught** 
 
-<a href="https://app.daily.dev/victorsolis"><img src="https://api.daily.dev/devcards/dc136413c11f4f80b0a15bd216391cbb.png?r=7hs" width="400" alt="Victor Antonio Martinez Solis's Dev Card"/></a>
+<a href="https://app.daily.dev/victorsolis"><img src="https://api.daily.dev/devcards/dc136413c11f4f80b0a15bd216391cbb.png?r=0ey" width="400" alt="Victor Antonio Martinez Solis's Dev Card"/></a>
 
 Self-taught resident from Huetamo, Michoacán, passionate about self-learning and problem-solving through technology. Currently pursuing a degree in Computer Systems Engineering. I have actively participated in various programming and technological innovation competitions, such as Coding Cup Michoacán edition, Coding Cup TECNM, and the innovation competition held at the National Summit of Technological Development, Research, and Innovation, InnovaTecNM 2023 (regional stage). Professionally, I possess basic knowledge of English.
 
